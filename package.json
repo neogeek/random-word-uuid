@@ -1,0 +1,27 @@
+{
+    "name": "random-word-uuid",
+    "description": "Return random words.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "engines": {
+        "node": ">=12.0"
+    },
+    "license": "MIT",
+    "keywords": [
+        "random",
+        "words",
+        "uuid"
+    ],
+    "authors": [
+        {
+            "name": "Scott Doxey",
+            "email": "hello@scottdoxey.com",
+            "homepage": "http://scottdoxey.com/"
+        }
+    ],
+    "homepage": "https://github.com/neogeek/random-word-uuid",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/neogeek/random-word-uuid.git"
+    }
+}
